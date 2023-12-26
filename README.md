@@ -1,4 +1,4 @@
-# SNHU_CS340_Client_Server_Development
+# SNHU CS-340: Client/Server Development
 
 # How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
 The way I write programs that are maintainable is by adhering to the "separation of concerns" principle by segmenting the code/modules into sections that serve a particular purpose in the application. This reduces confusion when updating and/or expanding the application in the future by myself or other developers. Without adhering to the “separation of concerns” principle when developing an application, future maintenance of the application becomes a much more difficult process and introduces a larger possibility of application wide error(s).
